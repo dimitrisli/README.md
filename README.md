@@ -2,7 +2,7 @@
 
 - 💼 I’m currently working at [UBS](https://www.ubs.com/)
 - 💭 I'm interested in Java, Spring Framework Ecosystem, JPA/Hibernate, Persistence, RDBMS, React, Design, Architecture
-- 🖥 [Personal Blog](https://dimitrisli.wordpress.com/
+- 🖥 [Personal Blog](https://dimitrisli.wordpress.com/)
 
 <div align="center">
 
