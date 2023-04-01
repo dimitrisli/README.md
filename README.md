@@ -3,7 +3,7 @@
 - 💼 [My LinkedIn Profile](https://www.linkedin.com/in/dimitriosliapis/)
 - 💭 I'm interested in Java, Spring Framework Ecosystem, JPA/Hibernate, Persistence, RDBMS, React, Design, Architecture
 - [My StackOverflow Profile](https://stackoverflow.com/users/185723/dimitrisli)
-- [My Twitter Profile](https://twitter.com/DimiLiapis)
+- 🐦 [My Twitter Profile](https://twitter.com/DimiLiapis)
 - 🖥 [Personal Blog](https://dimitrisli.wordpress.com/)
 
 <div align="center">
