@@ -7,3 +7,9 @@
 
 ![The languages I use](https://raw.githubusercontent.com/dimitrisli/github-stats/master/generated/languages.svg)
 ![My contribution history](https://raw.githubusercontent.com/dimitrisli/github-stats/master/generated/overview.svg)
+
+![java](https://skillicons.dev/icons?theme=light&i=java,spring,hibernate,maven,scala)
+![js](https://skillicons.dev/icons?theme=light&i=html,js,ts,css,tailwind,react,nextjs)
+![ide](https://skillicons.dev/icons?theme=light&i=idea,vim,neovim)
+![ci](https://skillicons.dev/icons?theme=light&i=git,bash,github,gitlab)
+![cloud](https://skillicons.dev/icons?theme=light&i=aws,azure)
